@@ -1,0 +1,16 @@
+body {
+    background-image: url('../background.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #999;
+}
+
+.message {
+    background-color: rgba(0, 0, 0, 0.3);
+    color: #fff;
+    padding: 0.5em;
+    margin-top: 450px;
+    float: right;
+}
